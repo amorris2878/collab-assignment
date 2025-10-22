@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is a project file for our collaboration assignment.
+=======
+This is a project file for our collaboration as
+signment. 
+>>>>>>> 768d912864476806b2cb931f47f9fb1294a720c6
